@@ -1,0 +1,62 @@
+📊 Project Title
+Virinda Store Annual Sales Dashboard – 2022
+
+🧾 Description
+Developed an interactive annual sales dashboard for Virinda Store to analyze order performance, customer behavior, and revenue trends. The dashboard visualizes key business KPIs such as total sales,
+order volume, customer segmentation, gender-wise purchases, and monthly sales distribution.
+
+🎯 Objectives
+Monitor yearly sales performance
+Analyze monthly order trends
+Identify customer purchase patterns
+Compare gender-based sales contribution
+Evaluate order channels & categories
+
+📂 Repository Contents
+📁 Data/ → Raw & cleaned Virinda Store dataset  
+📁 Dashboard/ → Excel Dashboard file  
+📁 Images/ → Dashboard screenshots  
+README.md → Project documentation
+
+📈 Key KPIs Highlighted
+(Values image se extract karke professional format me likh raha hoon)
+Total Sales: 719,147
+Total Orders: 1,045
+Average Order Value: 688.18
+Total Customers: 1,045
+
+📊 Dashboard Insights
+Month-wise Sales & Order Trends
+Gender-wise Purchase Analysis (Men vs Women)
+Order Channel Distribution
+Category-wise Sales Performance
+Top Contributing Segments
+Customer Buying Behavior
+
+🛠️ Tools & Technologies Used
+Microsoft Excel
+Pivot Tables
+Pivot Charts
+Slicers & Filters
+Data Cleaning Techniques
+
+🔍 Features
+Interactive slicers for filtering
+Dynamic KPI cards
+Visual sales trend analysis
+Customer segmentation charts
+Business performance overview
+
+▶️ How to Use
+Download Excel dashboard file
+Open in Microsoft Excel
+Use slicers to filter data
+Analyze KPIs & charts
+
+📌 Business Use Case
+This dashboard helps stakeholders:
+Track annual store performance
+Understand customer demographics
+Optimize product/category strategy
+
+Improve marketing targeting
